@@ -44,7 +44,5 @@ I am a final-year CSE student passionate about building **robust APIs**, integra
 
 ### 📫 Connect with Me
 
-[<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel" />](https://meet-anas.vercel.app/)
+[<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=vercel" />](https://anas-here.vercel.app/)
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/hossain-anas/)
-
-> *"Anyone Who Works Hard is a Warrior" — Eisen*
