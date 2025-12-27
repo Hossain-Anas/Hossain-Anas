@@ -47,8 +47,9 @@ Rather than claiming expertise, I focus on **solid fundamentals**, clean system 
 
 ### 📊 GitHub Activity
 
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossain-Anas&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Anas&layout=compact&theme=radical&hide_border=true)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hossain-Anas&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Anas&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+
 
 ---
 
