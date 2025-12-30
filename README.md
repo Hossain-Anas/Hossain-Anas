@@ -31,7 +31,7 @@ Rather than claiming expertise, I focus on **solid fundamentals**, clean system 
 | Project | What I Built | Tech Used |
 | :--- | :--- | :--- |
 | 🧠 **[DocuMind](https://github.com/Hossain-Anas/documind)** | A RAG-based document Q&A system that allows users to query PDFs using vector-based retrieval. Focused on chunking strategies, embedding quality, and retrieval accuracy. | `FastAPI` `LangChain` `ChromaDB` |
-| 🔍 **[notAvgSearch](https://github.com/Hossain-Anas/NotAvgSearch-Semantic-Search-API)** | A semantic search prototype that replaces keyword matching with embedding similarity. Built to understand FAISS indexing and vector distance metrics. | `Python` `FAISS` `OpenAI` |
+| 🔍 **[notAvgSearch](https://github.com/Hossain-Anas/NotAvgSearch-Semantic-Search-API)** | A semantic search prototype that replaces keyword matching with embedding similarity. Built to understand FAISS indexing and vector distance metrics. | `Python` `FAISS` `FastAPI` `Sentence-Transformers`  |
 | 📊 **[Sentiment Engine](https://github.com/Hossain-Anas/SmartTemu)** | An LLM-powered service that converts e-commerce reviews into structured JSON sentiment outputs for downstream use. | `Node.js` `Groq API` `MERN` |
 
 ---
