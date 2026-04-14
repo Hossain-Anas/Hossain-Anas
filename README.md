@@ -47,17 +47,12 @@ I’m a final-year Computer Science student passionate about **building reliable
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Hossain-Anas&theme=radical&no-frame=true"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Anas&layout=compact&theme=radical"
-  height="165"
-/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossain-Anas&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Anas&layout=compact&theme=radical" height="165" />
+</p>
 
 ---
 
