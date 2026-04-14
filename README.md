@@ -29,11 +29,11 @@ I’m a final-year Computer Science student passionate about **building reliable
 
 | Project | What I Built | Tech Used |
 | :--- | :--- | :--- |
-| 📖 **[ReadEase AI](https://github.com/Hossain-Anas/readease-ai)** | Local-first AI assistant that simplifies and explains text for dyslexic users. Serverless backend with caching & multimodal support. Amazon 10,000 Aldeas Competition 2026 global finalist. | `React` `Chrome Extension` `AWS Lambda` `Amazon Bedrock` |
+| 📖 **[ReadEase AI](https://github.com/Hossain-Anas/ReadEase)** | Local-first AI assistant that simplifies and explains text for dyslexic users. Serverless backend with caching & multimodal support. Amazon 10,000 Aldeas Competition 2026 global finalist. | `React` `Chrome Extension` `AWS Lambda` `Amazon Bedrock` |
 | 🛒 **[Shopping Memory Agent](https://github.com/Hossain-Anas/shopping-memory-agent)** | Browser assistant that remembers and compares products locally using IndexedDB and service workers. All data stays in the browser with audit logs and permission controls. | `Chrome Extension` `IndexedDB` `Service Worker` `Gemini API` |
 | 🖥️ **[ScreenPilot](https://github.com/abrarfahim-1000/ScreenPilot)** | Multimodal AI agent that understands screen context and executes OS-level actions with visual verification and secure secret redaction. Built for Gemini Live Agent Challenge 2026. | `Python` `FastAPI` `Gemini API` `Google Cloud Run` |
 | 📄 **[DocuMind](https://github.com/Hossain-Anas/documind)** | RAG-based document Q&A system that allows users to query PDFs using semantic retrieval and embeddings. Focused on chunking strategies and retrieval accuracy. | `FastAPI` `LangChain` `ChromaDB` |
-| 🤖 **[Autonomous Security Robot](https://github.com/Hossain-Anas/security-robot)** | Real-time threat detection using YOLOv8 on edge devices (ESP32). Automated Telegram alerts for high-confidence detections. | `Python` `Flask` `YOLOv8` `OpenCV` `Telegram Bot API` |
+| 🤖 **[Autonomous Security Robot](https://github.com/Hossain-Anas/Autonomous-Security-Robot-Cloud-Integrated-Threat-Detection-System-)** | Real-time threat detection using YOLOv8 on edge devices (ESP32). Automated Telegram alerts for high-confidence detections. | `Python` `Flask` `YOLOv8` `OpenCV` `Telegram Bot API` |
 
 ---
 
