@@ -100,7 +100,3 @@ Currently working as a **Machine Learning Intern at Upay**, building ML, analyti
   <img src="https://github-readme-stats.vercel.app/api?username=Hossain-Anas&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hossain-Anas&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hossain-Anas&label=Profile%20Views&color=7B2CBF&style=flat-square" />
-</p>
